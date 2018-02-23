@@ -5,7 +5,7 @@ But first hardcode your Twitter token,token_secret,consumer_key,consumer_secret 
 Command to run:
 $ python restfulAPI.py
 
-NoSQL database-MongoDB is being used to store and fetch Twitter data.
+NoSQL database-MongoDB is being used to store twitter data into 'Twitter_Data' database('information' collection) and fetch from it.
 Please follow the python file comments in order to understand the usage of the RESTful APIs.
 
 
